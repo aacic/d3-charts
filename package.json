@@ -1,0 +1,18 @@
+{
+  "name": "@acic/front-end",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "who data visualisation",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "prettier": "1.18.2"
+  },
+  "peerDependencies": {
+    "d3": "^4.12.2",
+    "d3-tip" : "0.9.1"
+  },
+  "files": [
+    "index.js"
+  ]
+}

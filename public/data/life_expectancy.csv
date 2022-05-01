@@ -1,0 +1,184 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BDI,Burundi,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,43.78,,,,,,43.78,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CAF,Central African Republic,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,44.34,,,,,,44.34,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZMB,Zambia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,44.46,,,,,,44.46,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MWI,Malawi,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,44.73,,,,,,44.73,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BWA,Botswana,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,45.59,,,,,,45.59,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZWE,Zimbabwe,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,46.57,,,,,,46.57,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SWZ,Eswatini,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,47.05,,,,,,47.05,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,RWA,Rwanda,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,47.51,,,,,,47.51,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,LSO,Lesotho,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,47.82,,,,,,47.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SLE,Sierra Leone,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,48.73,,,,,,48.73,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,UGA,Uganda,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,48.76,,,,,,48.76,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,AGO,Angola,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,49.3,,,,,,49.3,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,49.87,,,,,,49.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,50.28,,,,,,50.28,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,50.33,,,,,,50.33,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NER,Niger,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,50.35,,,,,,50.35,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ETH,Ethiopia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,50.58,,,,,,50.58,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MOZ,Mozambique,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,50.69,,,,,,50.69,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TCD,Chad,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,51.08,,,,,,51.08,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BFA,Burkina Faso,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,51.64,,,,,,51.64,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COG,Congo,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,52.12,,,,,,52.12,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,52.44,,,,,,52.44,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,52.47,,,,,,52.47,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MLI,Mali,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,52.64,,,,,,52.64,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CMR,Cameroon,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,52.82,,,,,,52.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NAM,Namibia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,53.32,,,,,,53.32,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,NGA,Nigeria,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,53.63,,,,,,53.63,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,LBR,Liberia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,53.77,,,,,,53.77,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,KEN,Kenya,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,53.87,,,,,,53.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SSD,South Sudan,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,54.15,,,,,,54.15,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GIN,Guinea,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,54.26,,,,,,54.26,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,54.31,,,,,,54.31,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ERI,Eritrea,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,54.51,,,,,,54.51,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,54.99,,,,,,54.99,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KIR,Kiribati,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,55.73,,,,,,55.73,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,ZAF,South Africa,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,55.75,,,,,,55.75,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,TGO,Togo,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,55.95,,,,,,55.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,BEN,Benin,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,56.59,,,,,,56.59,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,HTI,Haiti,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,57.05,,,,,,57.05,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GAB,Gabon,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,58.1,,,,,,58.1,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,58.41,,,,,,58.41,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SEN,Senegal,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,58.6,,,,,,58.6,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KHM,Cambodia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,58.68,,,,,,58.68,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MDG,Madagascar,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,58.82,,,,,,58.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GMB,Gambia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,59.24,,,,,,59.24,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,GHA,Ghana,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,59.24,,,,,,59.24,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,59.84,,,,,,59.84,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,59.99,,,,,,59.99,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,60.08,,,,,,60.08,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,MNG,Mongolia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,60.52,,,,,,60.52,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,61.19,,,,,,61.19,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,COM,Comoros,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,61.51,,,,,,61.51,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MRT,Mauritania,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,61.96,,,,,,61.96,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,IND,India,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,62.11,,,,,,62.11,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,62.47,,,,,,62.47,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,62.51,,,,,,62.51,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,62.67,,,,,,62.67,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,62.69,,,,,,62.69,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GUY,Guyana,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,62.96,,,,,,62.96,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,KAZ,Kazakhstan,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,63.15,,,,,,63.15,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,63.29,,,,,,63.29,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TKM,Turkmenistan,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,63.32,,,,,,63.32,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,63.45,,,,,,63.45,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,63.9,,,,,,63.9,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,63.95,,,,,,63.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,NPL,Nepal,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,65.26,,,,,,65.26,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,UZB,Uzbekistan,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,65.27,,,,,,65.27,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,RUS,Russian Federation,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,65.29,,,,,,65.29,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,AZE,Azerbaijan,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,65.52,,,,,,65.52,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TJK,Tajikistan,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,65.58,,,,,,65.58,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,65.59,,,,,,65.59,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,65.7,,,,,,65.7,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,FJI,Fiji,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,65.9,,,,,,65.9,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,65.95,,,,,,65.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,66.02,,,,,,66.02,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GTM,Guatemala,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,66.78,,,,,,66.78,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MDA,Republic of Moldova,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,66.87,,,,,,66.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,67.17,,,,,,67.17,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,UKR,Ukraine,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,67.53,,,,,,67.53,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,WSM,Samoa,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,68.51,,,,,,68.51,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,68.77,,,,,,68.77,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BLR,Belarus,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,68.85,,,,,,68.85,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,PHL,Philippines,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,69.03,,,,,,69.03,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,69.07,,,,,,69.07,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,69.35,,,,,,69.35,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GEO,Georgia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,69.41,,,,,,69.41,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,69.7,,,,,,69.7,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,69.82,,,,,,69.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,SUR,Suriname,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,69.94,,,,,,69.94,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,HND,Honduras,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,70.04,,,,,,70.04,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LVA,Latvia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,70.18,,,,,,70.18,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BLZ,Belize,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,70.34,,,,,,70.34,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,70.47,,,,,,70.47,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,70.52,,,,,,70.52,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,70.61,,,,,,70.61,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,TON,Tonga,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,70.92,,,,,,70.92,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BHS,Bahamas,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,70.94,,,,,,70.94,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,EST,Estonia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,70.94,,,,,,70.94,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,MDV,Maldives,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,70.96,,,,,,70.96,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,CPV,Cabo Verde,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,70.97,,,,,,70.97,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.11,,,,,,71.11,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,MUS,Mauritius,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.17,,,,,,71.17,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,THA,Thailand,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.25,,,,,,71.25,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.29,,,,,,71.29,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,HUN,Hungary,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.34,,,,,,71.34,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ROU,Romania,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.39,,,,,,71.39,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SRB,Serbia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.43,,,,,,71.43,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.45,,,,,,71.45,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.46,,,,,,71.46,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BRA,Brazil,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.47,,,,,,71.47,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,CHN,China,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.58,,,,,,71.58,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BGR,Bulgaria,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.61,,,,,,71.61,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,SYC,Seychelles,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.87,,,,,,71.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ARM,Armenia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.88,,,,,,71.88,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.89,,,,,,71.89,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,GRD,Grenada,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,71.97,,,,,,71.97,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LTU,Lithuania,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,72.04,,,,,,72.04,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,72.2,,,,,,72.2,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AFR,Africa,Country,DZA,Algeria,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,72.21,,,,,,72.21,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,SLV,El Salvador,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,72.5,,,,,,72.5,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,72.56,,,,,,72.56,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,72.65,,,,,,72.65,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,MYS,Malaysia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,72.8,,,,,,72.8,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,73.18,,,,,,73.18,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,LCA,Saint Lucia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,73.21,,,,,,73.21,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,DOM,Dominican Republic,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,73.22,,,,,,73.22,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,NIC,Nicaragua,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,73.26,,,,,,73.26,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SVK,Slovakia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,73.3,,,,,,73.3,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ALB,Albania,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,73.55,,,,,,73.55,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MNE,Montenegro,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,73.56,,,,,,73.56,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,POL,Poland,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,73.7,,,,,,73.7,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,COL,Colombia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,73.75,,,,,,73.75,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ARG,Argentina,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.09,,,,,,74.09,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.09,,,,,,74.09,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.12,,,,,,74.12,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,JAM,Jamaica,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.22,,,,,,74.22,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,HRV,Croatia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.36,,,,,,74.36,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.4,,,,,,74.4,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,MEX,Mexico,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.41,,,,,,74.41,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,TUR,Turkey,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.41,,,,,,74.41,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PER,Peru,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.42,,,,,,74.42,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,BRB,Barbados,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.5,,,,,,74.5,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ECU,Ecuador,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.53,,,,,,74.53,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.56,,,,,,74.56,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.61,,,,,,74.61,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PRY,Paraguay,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.8,,,,,,74.8,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,URY,Uruguay,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.82,,,,,,74.82,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CZE,Czechia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,74.95,,,,,,74.95,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,75.42,,,,,,75.42,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SVN,Slovenia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,76.05,,,,,,76.05,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,76.21,,,,,,76.21,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,IRL,Ireland,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,76.41,,,,,,76.41,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,PRT,Portugal,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,76.58,,,,,,76.58,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,USA,United States of America,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,76.69,,,,,,76.69,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CUB,Cuba,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,76.76,,,,,,76.76,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CHL,Chile,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,76.77,,,,,,76.77,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,DNK,Denmark,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,76.93,,,,,,76.93,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,PAN,Panama,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,77.23,,,,,,77.23,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,FIN,Finland,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,77.6,,,,,,77.6,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,BEL,Belgium,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,77.66,,,,,,77.66,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,77.85,,,,,,77.85,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,77.86,,,,,,77.86,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,MLT,Malta,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,77.87,,,,,,77.87,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CRI,Costa Rica,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,78,,,,,,78,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,NLD,Netherlands,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,78.01,,,,,,78.01,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,DEU,Germany,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,78.09,,,,,,78.09,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,AUT,Austria,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,78.17,,,,,,78.17,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,GRC,Greece,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,78.17,,,,,,78.17,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,LUX,Luxembourg,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,78.24,,,,,,78.24,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,SGP,Singapore,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,78.44,,,,,,78.44,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,NOR,Norway,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,78.53,,,,,,78.53,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ISR,Israel,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,78.57,,,,,,78.57,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,NZL,New Zealand,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,78.57,,,,,,78.57,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CYP,Cyprus,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,78.75,,,,,,78.75,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,FRA,France,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,78.91,,,,,,78.91,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ESP,Spain,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,79.08,,,,,,79.08,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,AMR,Americas,Country,CAN,Canada,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,79.1,,,,,,79.1,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ITA,Italy,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,79.36,,,,,,79.36,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,SWE,Sweden,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,79.57,,,,,,79.57,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,AUS,Australia,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,79.69,,,,,,79.69,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,ISL,Iceland,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,79.7,,,,,,79.7,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,EUR,Europe,Country,CHE,Switzerland,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,79.72,,,,,,79.72,,,EN,2020-12-03T23:00:00.000Z
+WHOSIS_000001,Life expectancy at birth (years),text,WPR,Western Pacific,Country,JPN,Japan,Year,2000,false,Sex,Both sexes,BTSX,,,,,,,,,,81.12,,,,,,81.12,,,EN,2020-12-03T23:00:00.000Z
